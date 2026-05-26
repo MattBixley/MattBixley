@@ -35,6 +35,15 @@ Research Computing Specialist at [REANNZ](https://www.reannz.co.nz), based in Du
 | [ML101 — Counting Spots](https://github.com/nesi/counting-spots-workshop) | Introductory machine learning workshop |
 | [ML102 — Image Analysis](https://github.com/nesi/ml102_workshop) | Machine learning for image analysis |
 | [ML103 — Large Language Models](https://github.com/nesi/ml103_llms) | Getting started with LLMs on NeSI |
+| [Introduction to R](https://github.com/GenomicsAotearoa/Introduction-to-R) | Introduction to R for genomics |
+| [Intermediate R](https://github.com/GenomicsAotearoa/Intermediate-R) | Intermediate R workshop material |
+| [Shell for Bioinformatics](https://github.com/GenomicsAotearoa/shell-for-bioinformatics) | Intermediate-advanced shell for bioinformatics |
+| [Bash Scripting & HPC](https://github.com/GenomicsAotearoa/Workshop-Bash_Scripting_And_HPC_Job_Scheduler) | Automating genomic analysis on HPC |
+| [RNA-seq Workshop](https://github.com/GenomicsAotearoa/RNA-seq-workshop) | RNA-seq data analysis |
+| [RNA-seq On Demand](https://github.com/GenomicsAotearoa/RNA-seq-workshop-on-demand) | RNA-seq workshop on REANNZ training platform |
+| [Imputation Workshop](https://github.com/GenomicsAotearoa/Imputation-workshop) | Genotype imputation workshop |
+| [Visualisation Day](https://github.com/GenomicsAotearoa/visualization_day) | Data visualisation beyond the code |
+| [HTS Plant Health Workshop](https://github.com/GenomicsAotearoa/hts_workshop_mpi) | High-throughput sequencing for plant health |
 
 ### Personal
 
