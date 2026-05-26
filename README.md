@@ -14,6 +14,8 @@ Research Computing Specialist at [REANNZ](https://www.reannz.co.nz), based in Du
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat&logo=anthropic&logoColor=white)
 
 ## Notable Projects
 
