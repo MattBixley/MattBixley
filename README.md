@@ -22,11 +22,8 @@ Research Computing Specialist at [REANNZ](https://www.reannz.co.nz), based in Du
 | Repo | Description |
 |------|-------------|
 | [eri-support-docs](https://github.com/MattBixley/eri-support-docs) | eRI support documentation |
-| [nesi_r](https://github.com/MattBixley/nesi_r) | Example R code for NeSI platforms |
-| [COVID19](https://github.com/MattBixley/COVID19) | NZ COVID-19 dashboard |
-| [HealthMap](https://github.com/MattBixley/HealthMap) | NZ health statistics mapping |
-| [O-Rank](https://github.com/MattBixley/O-Rank) | Orienteering rankings with mixed models |
+| [spain](https://github.com/MattBixley/spain) | Our Spanish Travel Log |
 
 ## Contact
 
-📧 matt.bixley@reannz.co.nz · 📍 Dunedin, New Zealand
+📧 matt.bixley@reannz.co.nz · 📧 mattbixley72@gmail.com · 📍 Dunedin, New Zealand
