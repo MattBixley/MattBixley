@@ -21,10 +21,25 @@ Research Computing Specialist at [REANNZ](https://www.reannz.co.nz), based in Du
 
 ## Notable Projects
 
+### eResearch & Infrastructure
+
 | Repo | Description |
 |------|-------------|
 | [eri-support-docs](https://github.com/MattBixley/eri-support-docs) | eRI support documentation |
 | [REANNZ Training Environment](https://nesi.github.io/training-environment/) | NeSI/REANNZ cloud training platform for workshops |
+
+### Training & Workshops
+
+| Repo | Description |
+|------|-------------|
+| [ML101 — Counting Spots](https://github.com/nesi/counting-spots-workshop) | Introductory machine learning workshop |
+| [ML102 — Image Analysis](https://github.com/nesi/ml102_workshop) | Machine learning for image analysis |
+| [ML103 — Large Language Models](https://github.com/nesi/ml103_llms) | Getting started with LLMs on NeSI |
+
+### Personal
+
+| Repo | Description |
+|------|-------------|
 | [spain](https://github.com/MattBixley/spain) | Our Spanish Travel Log |
 
 ## Contact
