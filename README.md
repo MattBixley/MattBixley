@@ -50,6 +50,10 @@ Research Computing Specialist at [REANNZ](https://www.reannz.co.nz), based in Du
 |------|-------------|
 | [spain](https://github.com/MattBixley/spain) | Our Spanish Travel Log |
 
+## Contributions
+
+![GitHub contribution heatmap](https://ghchart.rshah.org/MattBixley)
+
 ## Contact
 
 📧 matt.bixley@reannz.co.nz · 📧 mattbixley72@gmail.com · 📍 Dunedin, New Zealand
