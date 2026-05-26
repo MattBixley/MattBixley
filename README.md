@@ -43,7 +43,6 @@ Research Computing Specialist at [REANNZ](https://www.reannz.co.nz), based in Du
 | [RNA-seq On Demand](https://github.com/GenomicsAotearoa/RNA-seq-workshop-on-demand) | RNA-seq workshop on REANNZ training platform |
 | [Imputation Workshop](https://github.com/GenomicsAotearoa/Imputation-workshop) | Genotype imputation workshop |
 | [Visualisation Day](https://github.com/GenomicsAotearoa/visualization_day) | Data visualisation beyond the code |
-| [HTS Plant Health Workshop](https://github.com/GenomicsAotearoa/hts_workshop_mpi) | High-throughput sequencing for plant health |
 
 ### Personal
 
