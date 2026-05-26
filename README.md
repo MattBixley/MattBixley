@@ -24,6 +24,7 @@ Research Computing Specialist at [REANNZ](https://www.reannz.co.nz), based in Du
 | Repo | Description |
 |------|-------------|
 | [eri-support-docs](https://github.com/MattBixley/eri-support-docs) | eRI support documentation |
+| [REANNZ Training Environment](https://nesi.github.io/training-environment/) | NeSI/REANNZ cloud training platform for workshops |
 | [spain](https://github.com/MattBixley/spain) | Our Spanish Travel Log |
 
 ## Contact
