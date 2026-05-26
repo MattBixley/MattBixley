@@ -16,6 +16,8 @@ Research Computing Specialist at [REANNZ](https://www.reannz.co.nz), based in Du
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat&logo=anthropic&logoColor=white)
+![OpenOrienteering Mapper](https://img.shields.io/badge/-OO%20Mapper-FF6600?style=flat)
+![Pullauta](https://img.shields.io/badge/-Pullauta-6B8E23?style=flat)
 
 ## Notable Projects
 
@@ -23,8 +25,6 @@ Research Computing Specialist at [REANNZ](https://www.reannz.co.nz), based in Du
 |------|-------------|
 | [eri-support-docs](https://github.com/MattBixley/eri-support-docs) | eRI support documentation |
 | [spain](https://github.com/MattBixley/spain) | Our Spanish Travel Log |
-| [OpenOrienteering Mapper](https://github.com/OpenOrienteering/mapper) | Open-source orienteering map making |
-| [Pullauta](https://github.com/rphlo/karttapullautin) | Terrain rendering for orienteering maps |
 
 ## Contact
 
