@@ -23,6 +23,8 @@ Research Computing Specialist at [REANNZ](https://www.reannz.co.nz), based in Du
 |------|-------------|
 | [eri-support-docs](https://github.com/MattBixley/eri-support-docs) | eRI support documentation |
 | [spain](https://github.com/MattBixley/spain) | Our Spanish Travel Log |
+| [OpenOrienteering Mapper](https://github.com/OpenOrienteering/mapper) | Open-source orienteering map making |
+| [Pullauta](https://github.com/rphlo/karttapullautin) | Terrain rendering for orienteering maps |
 
 ## Contact
 
